@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/CLionProjects/Lab/fun.h
+
+/cygdrive/d/CLionProjects/Lab/main.cpp
+iostream
+-
+fun.h
+/cygdrive/d/CLionProjects/Lab/fun.h
+cstdlib
+-
+ctime
+-
+

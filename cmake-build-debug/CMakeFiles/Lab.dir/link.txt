@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Lab.dir/main.cpp.o CMakeFiles/Lab.dir/fun.cpp.o  -o Lab.exe -Wl,--out-implib,libLab.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
